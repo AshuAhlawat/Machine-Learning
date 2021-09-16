@@ -35,4 +35,4 @@ def stats(root):
     dev_tup = (round(r_dev,4), round(g_dev,4), round(b_dev,4))
     print(dev_tup)
     
-stats("./data/cifar10/train")
+stats("./data/hymenoptera/train")
