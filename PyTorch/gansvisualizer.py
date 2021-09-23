@@ -1,8 +1,5 @@
 import cv2
 import os
-# import sys 
-
-# sys.path.append('/usr/local/lib/python3.9/site-packages')
 
 frame = cv2.imread("./data/fashion/gans_data/fake_images_1.png")
 
